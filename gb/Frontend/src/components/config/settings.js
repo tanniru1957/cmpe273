@@ -1,2 +1,2 @@
-const rootUrl = "http://35.171.18.97:3001"
+const rootUrl = "http://54.210.246.201:3001"
 export default rootUrl;
