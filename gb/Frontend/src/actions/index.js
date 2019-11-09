@@ -21,7 +21,7 @@ export const PREPARING_ORDER_STATUS="Preparing_order_status";
 export const DELIVERING_ORDER_STATUS="Delivering_order_status";
 
 
-const ROOT_URL = "http://35.171.18.97:3001";
+const ROOT_URL = "http://54.210.246.201:3001";
 
 export function loginuser(values,callback) {
 
